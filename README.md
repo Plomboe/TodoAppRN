@@ -8,3 +8,5 @@ Built with
 * [ReactiveSearch for Native](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native)
 * [Appbaseio](https://appbase.io)
 * ❤
+
+# Demo
